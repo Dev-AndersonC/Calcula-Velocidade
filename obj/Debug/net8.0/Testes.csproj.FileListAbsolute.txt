@@ -1,0 +1,14 @@
+/home/zhaterz/Documentos/Projetos/Testes/bin/Debug/net8.0/Testes
+/home/zhaterz/Documentos/Projetos/Testes/bin/Debug/net8.0/Testes.deps.json
+/home/zhaterz/Documentos/Projetos/Testes/bin/Debug/net8.0/Testes.runtimeconfig.json
+/home/zhaterz/Documentos/Projetos/Testes/bin/Debug/net8.0/Testes.dll
+/home/zhaterz/Documentos/Projetos/Testes/bin/Debug/net8.0/Testes.pdb
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/Testes.GeneratedMSBuildEditorConfig.editorconfig
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/Testes.AssemblyInfoInputs.cache
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/Testes.AssemblyInfo.cs
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/Testes.csproj.CoreCompileInputs.cache
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/Testes.dll
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/refint/Testes.dll
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/Testes.pdb
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/Testes.genruntimeconfig.cache
+/home/zhaterz/Documentos/Projetos/Testes/obj/Debug/net8.0/ref/Testes.dll
